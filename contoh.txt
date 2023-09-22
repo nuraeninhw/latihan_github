@@ -1,2 +1,3 @@
 Pertemuan 1 Pengenalan Git dan Github
-Pertemuan 2 Pengenalan Framework CI
+Pertemuan 2 Pengenalan Framework Codeigniter
+Pertemuan 3 Konsep MVC
