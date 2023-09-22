@@ -1,1 +1,2 @@
 Pertemuan 1 Pengenalan Git dan Github
+Pertemuan 2 Pengenalan Framework CI
